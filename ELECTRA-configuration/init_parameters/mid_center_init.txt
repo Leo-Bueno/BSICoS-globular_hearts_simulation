@@ -1,0 +1,9 @@
+##
+# Initialization file for cell in ELECTRA-console.
+# ap type: Ohara
+# cell type: mid center
+##
+
+[Parameters]
+
+gKs=0.00884
